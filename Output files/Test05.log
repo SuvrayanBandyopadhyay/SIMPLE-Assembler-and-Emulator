@@ -1,0 +1,9 @@
+LINE: 4 ERROR::1: Duplicate label definition
+LINE: 6 ERROR::3: Not a number
+LINE: 7 ERROR::4: Missing operand
+LINE: 8 ERROR::5: Unexpected Operand
+LINE: 9 ERROR::6: Extra text in end of line
+LINE: 10 ERROR::7: Bogus label name
+LINE: 11 ERROR::8: Bogus mnemonic
+LINE: 12 ERROR::8: Bogus mnemonic
+ERROR:: 2: No such label:: nonesuch
